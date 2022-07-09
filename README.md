@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Aaron Johnson</h1>
 <h3 align="center">A dedicated Full Stack Developer</h3>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jardajohnson)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning **React.js, Tailwindcss**
 
 - 💬 Ask me about **Javascript, Java, React, Spring Boot**
